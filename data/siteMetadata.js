@@ -14,6 +14,7 @@ const siteMetadata = {
   email: 'address@yoursite.com',
   github: 'https://github.com/yutaro21jp',
   x: 'https://x.com/yutaro21jp',
+  nostr: 'your-nostr-public-key', // Replace with your Nostr public key or NIP-05 address
   twitter: 'https://x.com/yutaro21jp',
   facebook: 'https://facebook.com',
   youtube: 'https://youtube.com',
