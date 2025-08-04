@@ -1,4 +1,5 @@
 import {
+  Nostr,
   Mail,
   Github,
   Facebook,
@@ -14,6 +15,7 @@ import {
 } from './icons'
 
 const components = {
+  nostr: Nostr,
   mail: Mail,
   github: Github,
   facebook: Facebook,
