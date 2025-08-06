@@ -11,7 +11,7 @@ const siteMetadata = {
   siteLogo: `${process.env.BASE_PATH || ''}/static/images/logo.png`,
   socialBanner: `${process.env.BASE_PATH || ''}/static/images/twitter-card.png`,
   mastodon: 'https://mastodon.social/@mastodonuser',
-  email: 'address@yoursite.com',
+  email: 'yutaro@tutamail.com',
   github: 'https://github.com/yutaro21jp',
   x: 'https://x.com/yutaro21jp',
   nostr: 'your-nostr-public-key', // Replace with your Nostr public key or NIP-05 address
